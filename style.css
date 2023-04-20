@@ -171,7 +171,7 @@ body {
   position: fixed;
   font-size: 14px;
   left: 47%;
-  top: 85%;
+  top: 88%;
 }
 
 .resText {
@@ -196,7 +196,7 @@ a {
 
 /* width */
 ::-webkit-scrollbar {
-  width: 5px;
+  width: 10px;
 }
 
 /* Track */
@@ -1067,7 +1067,7 @@ a::after {
   height: 56vh;
   width: 24%;
   /* background-color: #353535; */
-  background-image: url("/imgs/br-1.jpg");
+  background-image: url("/imgs/br-1.JPG");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1278,7 +1278,7 @@ a::after {
   height: 56vh;
   width: 24%;
   /* background-color: #353535; */
-  background-image: url("/imgs/br-5.jpg");
+  background-image: url("/imgs/br-3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -1678,7 +1678,7 @@ a::after {
   height: 56vh;
   width: 24%;
   /* background-color: #353535; */
-  background-image: url("/imgs/d-5.jpg");
+  background-image: url("/imgs/d-4.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
