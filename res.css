@@ -7,6 +7,16 @@
     display: block;
   }
 
+  .footer-four {
+    left: 75%;
+    top: 40%;
+  }
+
+  .piycodes {
+    margin-left: -110%;
+    margin-top: 2%;
+  }
+
   li {
     font-size: 1vw;
     line-height: 1.5vw;
@@ -20,7 +30,7 @@
 
   #sd-eve-three {
     left: 46.5%;
-    top: 78%;
+    top: 80%;
   }
 
   li {
@@ -440,6 +450,16 @@
 }
 
 @media screen and (max-width: 1200px) {
+  .footer-four {
+    left: 80%;
+    top: 42%;
+  }
+
+  .piycodes {
+    margin-left: -110%;
+    margin-top: 10%;
+  }
+
   #secFourReg {
     height: 110vh;
   }
@@ -590,6 +610,17 @@
   /* .not-available {
     display: block;
   } */
+
+  .footer-four {
+    left: 85%;
+    top: 43%;
+  }
+
+  .piycodes {
+    margin-left: -110%;
+    margin-top: 10%;
+  }
+
   .hover-one-reg {
     position: fixed;
     z-index: 20;
@@ -603,6 +634,15 @@
     padding: 5px;
     border-radius: 50px;
     transition: 0.3s;
+  }
+
+  marquee {
+    z-index: 20;
+    top: 2.3%;
+    left: 39%;
+    font-size: 12px;
+    padding: 9px;
+    width: 20%;
   }
 
   #tPic {
@@ -736,7 +776,7 @@
   }
 
   .footer-three {
-    left: 45%;
+    left: 43%;
   }
 
   #footer {
@@ -794,6 +834,15 @@
   .rules {
     top: 5%;
   } */
+  .footer-four {
+    left: 73%;
+    top: 17.5%;
+  }
+
+  .piycodes {
+    margin-left: -110%;
+    margin-top: 10%;
+  }
 
   li {
     width: 500px;
@@ -1108,6 +1157,16 @@
     display: none;
   }
 
+  .footer-four {
+    left: 73%;
+    top: 17.5%;
+  }
+
+  .piycodes {
+    margin-left: -110%;
+    margin-top: 10%;
+  }
+
   #footer {
     height: 25vh;
     margin-top: 0%;
@@ -1163,7 +1222,7 @@
   }
 
   #regAct {
-    top: 45%;
+    top: 47%;
     left: 37.5%;
     z-index: 10;
     position: fixed;
@@ -1171,7 +1230,7 @@
 
   #sd-eve-three {
     left: 40%;
-    top: 55%;
+    top: 57%;
   }
 
   .hover-one-reg {
