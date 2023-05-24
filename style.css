@@ -497,6 +497,7 @@ a::after {
 
 #header-logo-two {
   width: 52%;
+  top: 12%;
   height: auto;
   position: fixed;
   display: none;
@@ -836,16 +837,22 @@ a::after {
   line-height: 400px;
 }
 
-#subSix {
+marquee {
   position: fixed;
-  margin: 0 5% 3% 0;
-  bottom: 5%;
-
-  font-size: 14px;
-  font-family: "neue light", sans-serif;
+  top: 9%;
+  left: 41.5%;
+  font-family: "aeonik ", sans-serif;
   color: white;
+  /* opacity: 0.9; */
+  z-index: 10;
+  background-color: #1a1a1a;
+  width: 15%;
+  font-size: 15px;
+  padding: 14px;
+  border-radius: 25px;
   text-align: center;
-  letter-spacing: 0.6px;
+  text-transform: none;
+  letter-spacing: 0.3px;
 }
 
 #lengthFour {
@@ -1759,7 +1766,7 @@ li {
 
 .footer-one {
   position: absolute;
-  margin-top: 6%;
+  margin-top: 4%;
   left: 5%;
   font-size: 16px;
   line-height: 27px;
@@ -1772,7 +1779,7 @@ li {
 
 .footer-two {
   position: absolute;
-  margin-top: 6%;
+  margin-top: 4%;
   left: 25%;
   font-size: 16px;
   line-height: 27px;
@@ -1785,7 +1792,7 @@ li {
 
 .footer-three {
   position: absolute;
-  margin-top: 6%;
+  margin-top: 4%;
   left: 38%;
   font-size: 16px;
   line-height: 27px;
@@ -1794,6 +1801,12 @@ li {
   color: #8c8c8c;
   text-align: right;
   letter-spacing: 0.3px;
+}
+
+.footer-four {
+  position: absolute;
+  margin-top: 3%;
+  left: 80%;
 }
 
 /* Events */
